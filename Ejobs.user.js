@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Jobs Enhanced Finder is using user script manager for Blink-based browser,Tampermonkey, 
 //               to filter the jobs from a given website after the criteria of interest - 
-//               the actual version is filtering the jobs from www.ejobs.ro using as criteria of selection. 
+//               the actual version is filtering the jobs from www.ejobs.ro. 
 // @author       Cosmina
 // @match        https://www.ejobs.ro/locuri-de-munca/*
 // @grant        none
