@@ -31,12 +31,6 @@ function filterPages() {
 		 hideItem.style.left = "0px";
 		 hideItem.style.top = "0px";
     } 
-      /*
-     $("div .job-card-inner").hover(
-      function(){
-        $(this).css("background-color", "#f9f4f4");
-     });
-     */
       $("div .job-card-inner").css({
         "cursor": "pointer"
       }); 
